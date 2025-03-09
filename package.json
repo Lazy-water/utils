@@ -1,5 +1,5 @@
 {
-  "name": "@lt/utils",
+  "name": "@lktorter/utils",
   "license": "MIT",
   "version": "1.0.0",
   "description": "这是一个js的工具库，整理了一些常用的方法",
@@ -7,7 +7,7 @@
   "type": "module",
   "keywords": [
     "utils",
-    "@lt/utils"
+    "@lktorter/utils"
   ],
   "homepage": "https://github.com/Lazy-water/utils",
   "repository": {
